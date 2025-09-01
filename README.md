@@ -2,19 +2,19 @@
 
 # 👋 Hi, I'm Suryah  
 
-🎓 **MSBA Candidate @ UT Austin (Class of 2026)**  
-📊 **Data Analytics & Machine Learning Enthusiast**  
-🌍 **ESG Analytics | Business Strategy | Data-Driven Problem Solving**
+**MSBA Candidate @ UT Austin (Class of 2026)**  
+**Data Analytics & Machine Learning Enthusiast**  
+**ESG Analytics | Business Strategy | Data-Driven Problem Solving**
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I’m passionate about solving business challenges through **data, analytics, and storytelling**.  
 
 With **6+ years of experience** across:  
-- 🖥️ **Software Development @ Wipro** (OpenWrt, Lua, Wi-Fi systems, “Rookie of the Year”)  
-- 📈 **Business Development @ Byju’s & Scaler** (client engagement, data-driven growth)  
-- 📊 **Data Analytics & ESG Reporting @ ARUS Info (GLP – Singapore)**  
+- 🖥**Software Development @ Wipro** (OpenWrt, Lua, Wi-Fi systems, “Rookie of the Year”)  
+- **Business Development @ Byju’s & Scaler** (client engagement, data-driven growth)  
+- **Data Analytics & ESG Reporting @ ARUS Info (GLP – Singapore)**  
   - Delivered ESG Phase-2 for **10+ countries**  
   - Achieved **35% reduction in data inconsistencies**  
   - Promoted to **Team Lead (2024)**  
